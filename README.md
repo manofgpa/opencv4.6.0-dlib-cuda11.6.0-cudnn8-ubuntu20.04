@@ -1,4 +1,6 @@
+
 # opencv4.6.0-dlib-cuda11.6.0-cudnn8-ubuntu20.04
+
 
 This repository contains a docker image built with the following technologies:
 
@@ -9,3 +11,5 @@ This repository contains a docker image built with the following technologies:
 - Nvidia CUDA 11.6.0
 - Nvidia cuDNN 8.4.0
 
+
+Dockerhub: https://hub.docker.com/r/manofgpa/opencv4.6.0-dlib-cuda11.6.0-cudnn8-ubuntu20.04
