@@ -3,7 +3,7 @@
 This repository contains a docker image built with the following technologies:
 
 - Ubuntu 20.04
-- Ptyhon3
+- Python3
 - OpenCV 4.6.0 built with CUDA and cuDNN support
 - Dlib Latest Version built with CUDA and cuDNN support
 - Nvidia CUDA 11.6.0
